@@ -1,0 +1,4 @@
+/Users/Nastya/Desktop/build/CMakeFiles/edit_cache.dir
+/Users/Nastya/Desktop/build/CMakeFiles/rebuild_cache.dir
+/Users/Nastya/Desktop/build/CMakeFiles/lib.dir
+/Users/Nastya/Desktop/build/CMakeFiles/main.dir
