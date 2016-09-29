@@ -1,10 +1,10 @@
-language: generic
+language: cpp
 
 matrix:
   
 include:
    
- - os: linux
+ - os: osx
 
  sudo: required
 
